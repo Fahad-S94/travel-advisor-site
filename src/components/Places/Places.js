@@ -1,4 +1,4 @@
-import './Places.css';
+import './Places.js';
 
 const Places = () => {
   return <>Places</>;

@@ -1,4 +1,4 @@
-import './Map.css';
+import './Map.js';
 
 const Map = () => {
   return <>Map</>;
